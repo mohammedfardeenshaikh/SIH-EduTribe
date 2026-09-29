@@ -1,0 +1,48 @@
+const sampleProfiles = [
+  {
+    id: 1,
+    label: 'PhD Scholar (NFST Eligible)',
+    educationLevel: 'PhD',
+    income: 0,
+    age: 28,
+    institute: '',
+    isTopClassInstitute: false,
+    studyDestination: 'India',
+    marksPercent: 62,
+  },
+  {
+    id: 2,
+    label: 'Post-Graduate — Income Just Over Ceiling',
+    educationLevel: 'Post-Graduate',
+    income: 270000,
+    age: 24,
+    institute: '',
+    isTopClassInstitute: false,
+    studyDestination: 'India',
+    marksPercent: 68,
+  },
+  {
+    id: 3,
+    label: 'Graduate at IIT Delhi (Top Class Eligible)',
+    educationLevel: 'Graduate',
+    income: 400000,
+    age: 20,
+    institute: 'Indian Institute of Technology Delhi',
+    isTopClassInstitute: true,
+    studyDestination: 'India',
+    marksPercent: 75,
+  },
+  {
+    id: 4,
+    label: 'Class IX Student — Not Eligible (High Income)',
+    educationLevel: 'Class IX',
+    income: 800000,
+    age: 14,
+    institute: '',
+    isTopClassInstitute: false,
+    studyDestination: 'India',
+    marksPercent: 70,
+  },
+];
+
+export default sampleProfiles;

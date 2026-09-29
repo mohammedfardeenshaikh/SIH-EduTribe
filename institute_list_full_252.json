@@ -1,0 +1,1771 @@
+{
+  "source": "MoTA Revised List of 252 Institutes Eligible for Scholarship under National Fellowship and Scholarship for Higher Education of ST Students (Top Class Scholarship Scheme), 2022-23 onwards",
+  "note": "All courses should be full-time courses in campus with duration of minimum 1 year.",
+  "total_count": 252,
+  "institutes": [
+    {
+      "s_no": 1,
+      "name": "Indian Institute of Technology Delhi",
+      "location": "Hauz Khas, New Delhi 110016",
+      "state": "Delhi",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 2,
+      "name": "Indian Institute of Technology Kharagpur",
+      "location": "Kharagpur-721302",
+      "state": "West Bengal",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 3,
+      "name": "Indian Institute of Technology Kanpur",
+      "location": "Kalyanpur, Kanpur, Uttar Pradesh 208016",
+      "state": "Uttar Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 4,
+      "name": "Indian Institute of Technology Bombay",
+      "location": "Powai, Mumbai-400076",
+      "state": "Maharashtra",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 5,
+      "name": "Indian Institute of Technology Guwahati",
+      "location": "Guwahati-781039",
+      "state": "Assam",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 6,
+      "name": "Indian Institute of Technology Roorkee",
+      "location": "Roorkee-Haridwar Highway, Roorkee, Uttarakhand 247667",
+      "state": "Uttarakhand",
+      "course": "All Engineering Courses including Architecture"
+    },
+    {
+      "s_no": 7,
+      "name": "Indian Institute of Technology Madras",
+      "location": "Chennai-600036",
+      "state": "Tamil Nadu",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 8,
+      "name": "Indian Institute of Technology Ropar",
+      "location": "Rupnagar-140001",
+      "state": "Punjab",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 9,
+      "name": "Indian Institute of Technology Bhubaneswar",
+      "location": "Bhubaneswar-751013",
+      "state": "Odisha",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 10,
+      "name": "Indian Institute of Technology Jodhpur",
+      "location": "Old Residency Road, Ratanada, Jodhpur 342011",
+      "state": "Rajasthan",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 11,
+      "name": "Indian Institute of Technology Gandhinagar",
+      "location": "VGEC Complex, Chandkheda, Ahmedabad-382424",
+      "state": "Gujarat",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 12,
+      "name": "Indian Institute of Technology Patna",
+      "location": "Bihta, Patna, Bihar 801103",
+      "state": "Bihar",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 13,
+      "name": "Indian Institute of Technology Hyderabad",
+      "location": "Ordnance Factory Estate, Yeddumailaram-502205",
+      "state": "Telangana",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 14,
+      "name": "Indian Institute of Technology Mandi",
+      "location": "Kamand Campus, VPO Kamand, Mandi-175005",
+      "state": "Himachal Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 15,
+      "name": "Indian Institute of Technology Indore",
+      "location": "IET DAVV Campus, Khandwa Road, Indore-452017",
+      "state": "Madhya Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 16,
+      "name": "Indian Institute of Technology (BHU) Varanasi",
+      "location": "Varanasi-221005",
+      "state": "Uttar Pradesh",
+      "course": "All Engineering Courses including dual degree and integrated courses"
+    },
+    {
+      "s_no": 17,
+      "name": "Indian Institute of Technology Jammu",
+      "location": "Paloura Campus, Jammu Akhnoor Highway, Jammu",
+      "state": "Jammu",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 18,
+      "name": "Indian Institute of Technology Palakkad",
+      "location": "Ahalia Integrated Campus, Palakkad Dist., Kerala 678557",
+      "state": "Kerala",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 19,
+      "name": "Indian Institute of Technology Tirupati",
+      "location": "Tirupati-Renigunta Road, Settipalli Post, Andhra Pradesh 517506",
+      "state": "Andhra Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 20,
+      "name": "Indian Institute of Technology Goa",
+      "location": "Near ITI College, Farmagudi, Ponda, Goa 403401",
+      "state": "Goa",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 21,
+      "name": "Indian Institute of Technology Bhilai",
+      "location": "Old Dhamtari Rd, Datrenga, Chhattisgarh 492015",
+      "state": "Chhattisgarh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 22,
+      "name": "Indian Institute of Technology Dharwad",
+      "location": "WALMI Campus, Belur Industrial Area, Karnataka 580011",
+      "state": "Karnataka",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 23,
+      "name": "National Institute of Technology Warangal",
+      "location": "Warangal-506004",
+      "state": "Telangana",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 24,
+      "name": "National Institute of Technology Silchar",
+      "location": "Silchar-788010",
+      "state": "Assam",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 25,
+      "name": "National Institute of Technology Patna",
+      "location": "Patna-800005",
+      "state": "Bihar",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 26,
+      "name": "Sardar Vallabhbhai National Institute of Technology Surat",
+      "location": "Surat-395007",
+      "state": "Gujarat",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 27,
+      "name": "National Institute of Technology Jamshedpur",
+      "location": "Adityapur, Jamshedpur-831014",
+      "state": "Jharkhand",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 28,
+      "name": "National Institute of Technology Surathkal",
+      "location": "Surathkal-574157",
+      "state": "Karnataka",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 29,
+      "name": "National Institute of Technology Calicut",
+      "location": "NIT Campus P.O. Calicut-673601",
+      "state": "Kerala",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 30,
+      "name": "Visvesvaraya National Institute of Technology Nagpur",
+      "location": "South Ambazari Road, Nagpur-440010",
+      "state": "Maharashtra",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 31,
+      "name": "National Institute of Technology Rourkela",
+      "location": "Rourkela-769008",
+      "state": "Odisha",
+      "course": "All Engineering Courses including dual degree and integrated courses"
+    },
+    {
+      "s_no": 32,
+      "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+      "location": "G.T. Road Bye Pass, Jalandhar, Punjab 144011",
+      "state": "Punjab",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 33,
+      "name": "National Institute of Technology Kurukshetra",
+      "location": "Kurukshetra-132119",
+      "state": "Haryana",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 34,
+      "name": "National Institute of Technology Hamirpur",
+      "location": "Hamirpur-177001",
+      "state": "Himachal Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 35,
+      "name": "National Institute of Technology Hazratbal",
+      "location": "Hazratbal, Srinagar-190006",
+      "state": "Jammu and Kashmir",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 36,
+      "name": "Maulana Azad National Institute of Technology Bhopal",
+      "location": "Bhopal-462007",
+      "state": "Madhya Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 37,
+      "name": "Malaviya National Institute of Technology Jaipur",
+      "location": "Jaipur-302017",
+      "state": "Rajasthan",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 38,
+      "name": "National Institute of Technology Durgapur",
+      "location": "Durgapur-713209",
+      "state": "West Bengal",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 39,
+      "name": "National Institute of Technology Tiruchirappalli",
+      "location": "Tiruchirappalli-620015",
+      "state": "Tamil Nadu",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 40,
+      "name": "Motilal Nehru National Institute of Technology Allahabad",
+      "location": "Allahabad-211004",
+      "state": "Uttar Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 41,
+      "name": "National Institute of Technology Agartala",
+      "location": "Barjala, Jirania, Agartala-799055",
+      "state": "Tripura",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 42,
+      "name": "National Institute of Technology Raipur",
+      "location": "G.E. Road, Raipur-492010",
+      "state": "Chhattisgarh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 43,
+      "name": "National Institute of Technology Manipur",
+      "location": "Takyelpat, Imphal-795001",
+      "state": "Manipur",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 44,
+      "name": "National Institute of Technology Sikkim",
+      "location": "Barfung Block Ravangla, South Sikkim-737",
+      "state": "Sikkim",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 45,
+      "name": "National Institute of Technology Arunachal Pradesh",
+      "location": "Yupia, District Papum Pare-791112",
+      "state": "Arunachal Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 46,
+      "name": "National Institute of Technology Uttarakhand",
+      "location": "Temporary Campus, Govt Polytechnic, Srinagar (Garhwal)-246174",
+      "state": "Uttarakhand",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 47,
+      "name": "National Institute of Technology Mizoram",
+      "location": "Aizawl, Mizoram-796012",
+      "state": "Mizoram",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 48,
+      "name": "National Institute of Technology Nagaland",
+      "location": "Chumukedima, Dimapur-797103",
+      "state": "Nagaland",
+      "course": "All Engineering Courses including material sciences"
+    },
+    {
+      "s_no": 49,
+      "name": "National Institute of Technology Meghalaya",
+      "location": "Bijni Complex, Laitumkhrah, Shillong-793003",
+      "state": "Meghalaya",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 50,
+      "name": "National Institute of Technology Goa",
+      "location": "Farmagudi, Ponda, Goa-403401",
+      "state": "Goa",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 51,
+      "name": "National Institute of Technology Puducherry",
+      "location": "Karaikal-609605",
+      "state": "Puducherry",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 52,
+      "name": "National Institute of Technology Delhi",
+      "location": "Institute of Applied Manpower",
+      "state": "Delhi",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 53,
+      "name": "Indian Institute of Information Technology, Allahabad",
+      "location": "Devghat, Jhalwa, Allahabad-211012",
+      "state": "Uttar Pradesh",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 54,
+      "name": "Indian Institute of Information Technology, Sri City, Chittoor",
+      "location": "630 Gnan Marg, Sri City, Andhra Pradesh 517646",
+      "state": "Andhra Pradesh",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 55,
+      "name": "Indian Institute of Information Technology, Vadodara",
+      "location": "C/o Government Engineering College, Sector 28, Gandhinagar, Gujarat 382028",
+      "state": "Gujarat",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 56,
+      "name": "Indian Institute of Information Technology, Sonepat",
+      "location": "Village Kilrod, Haryana, C/O NIT Kurukshetra-136119",
+      "state": "Haryana",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 57,
+      "name": "Indian Institute of Information Technology, Una",
+      "location": "Himachal Pradesh Pin 177005",
+      "state": "Himachal Pradesh",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 58,
+      "name": "Indian Institute of Information Technology, Ranchi",
+      "location": "Ranchi, Jharkhand",
+      "state": "Jharkhand",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 59,
+      "name": "Indian Institute of Information Technology, Dharwad",
+      "location": "3rd floor, IT Park, Hubli-Dharwad Hwy, Karnataka 580029",
+      "state": "Karnataka",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 60,
+      "name": "Indian Institute of Information Technology, Kottayam",
+      "location": "Valavoor-Chakkampuzha Rd, Kerala 686635",
+      "state": "Kerala",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 61,
+      "name": "Indian Institute of Information Technology, Nagpur",
+      "location": "CPWD Colony, Seminary Hills, Maharashtra 440006",
+      "state": "Maharashtra",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 62,
+      "name": "Indian Institute of Information Technology, Pune",
+      "location": "Talegaon-Chakan Road, Sudumbre, Maharashtra 412109",
+      "state": "Maharashtra",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 63,
+      "name": "Indian Institute of Information Technology, Senapati, Manipur",
+      "location": "National Highway 39, Mantripukhri, Manipur 795002",
+      "state": "Manipur",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 64,
+      "name": "Indian Institute of Information Technology, Kota, Rajasthan",
+      "location": "Prabha Bhawan, MNIT Campus, Jaipur, Rajasthan 302017",
+      "state": "Rajasthan",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 65,
+      "name": "Indian Institute of Information Technology, Tiruchirapalli",
+      "location": "NIT Campus, Tanjore Main Road, Tamil Nadu 620015",
+      "state": "Tamil Nadu",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 66,
+      "name": "Indian Institute of Information Technology, Lucknow",
+      "location": "Lucknow, Uttar Pradesh",
+      "state": "Uttar Pradesh",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 67,
+      "name": "Indian Institute of Information Technology, Kalyani",
+      "location": "Near Webel IT-Park, West Bengal 741235",
+      "state": "West Bengal",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 68,
+      "name": "Indian Institute of Information Technology, Guwahati",
+      "location": "GNB Road, Assam Textile Institute Campus, Assam 781001",
+      "state": "Assam",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 69,
+      "name": "Indian Institute of Information Technology, Bhopal",
+      "location": "RGPV Campus, Airport Road, Madhya Pradesh 462033",
+      "state": "Madhya Pradesh",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 70,
+      "name": "Indian Institute of Information Technology, Agartala",
+      "location": "R.K. Nagar, Bodjhung Nagar, Tripura 799008",
+      "state": "Tripura",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 71,
+      "name": "Indian Institute of Information Technology, Kakinada",
+      "location": "630 Gnan Marg, Sri City, Andhra Pradesh 517646",
+      "state": "Andhra Pradesh",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 72,
+      "name": "Indian Institute of Information Technology, Surat",
+      "location": "Gandhinagar, Gujarat",
+      "state": "Gujarat",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 73,
+      "name": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+      "location": "Morena Link Road, Gwalior 474015",
+      "state": "Madhya Pradesh",
+      "course": "Information Technology including integrated courses"
+    },
+    {
+      "s_no": 74,
+      "name": "Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacturing Jabalpur",
+      "location": "Dumna Airport Road, Jabalpur-482005",
+      "state": "Madhya Pradesh",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 75,
+      "name": "Indian Institute of Information Technology, Design & Manufacturing Kanchipuram",
+      "location": "Melakottaiyur Village, Chennai-600127",
+      "state": "Tamil Nadu",
+      "course": "All full time courses including dual degree and integrated courses"
+    },
+    {
+      "s_no": 76,
+      "name": "Indian Institute of Information Technology, Design & Manufacturing, Kurnool",
+      "location": "Kurnool, Andhra Pradesh",
+      "state": "Andhra Pradesh",
+      "course": "Information Technology"
+    },
+    {
+      "s_no": 77,
+      "name": "School of Planning & Architecture, Delhi",
+      "location": "4-Block-B, Indraprastha Estate, New Delhi-110002",
+      "state": "Delhi",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 78,
+      "name": "School of Planning & Architecture, Bhopal",
+      "location": "Neelbad Road, Bhauri, Bhopal-462030",
+      "state": "Madhya Pradesh",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 79,
+      "name": "School of Planning & Architecture, Vijayawada",
+      "location": "Sy. No. 71/1, NH-5, Nidamanuru, Andhra Pradesh 521104",
+      "state": "Andhra Pradesh",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 80,
+      "name": "National Institute of Foundry & Forge Technology Ranchi",
+      "location": "Hatia, Ranchi-834003",
+      "state": "Jharkhand",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 81,
+      "name": "National Institute of Industrial Engineering, Mumbai",
+      "location": "Vihar Lake, Mumbai-400087",
+      "state": "Maharashtra",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 82,
+      "name": "Indian Institute of Technology (Dhanbad)",
+      "location": "Dhanbad-826004",
+      "state": "Jharkhand",
+      "course": "All full time courses in Engineering and Sciences including dual degree and integrated courses"
+    },
+    {
+      "s_no": 83,
+      "name": "North Eastern Regional Institute of Science and Technology (NERIST)",
+      "location": "Nirjuli, Itanagar-791109",
+      "state": "Arunachal Pradesh",
+      "course": "All Engineering and Science courses including Forestry"
+    },
+    {
+      "s_no": 84,
+      "name": "Delhi Technological University",
+      "location": "Shahbad Daulatpur, Main Bawana Road, Delhi 110042",
+      "state": "Delhi",
+      "course": "All full time Engineering Courses including dual degree courses"
+    },
+    {
+      "s_no": 85,
+      "name": "Rajiv Gandhi Institute of Petroleum Technology",
+      "location": "Ratapur Chowk, Rae Bareli-229316",
+      "state": "Uttar Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 86,
+      "name": "International Maritime Academy (IMA), Chennai",
+      "location": "41 Giri Road, T. Nagar, Chennai-600017",
+      "state": "Tamil Nadu",
+      "course": "All full time Naval Architecture, Ship Building Courses including dual degree and integrated courses"
+    },
+    {
+      "s_no": 87,
+      "name": "Indian Institute of Space Science and Technology (IIST)",
+      "location": "Valiamala, Thiruvananthapuram-695547",
+      "state": "Kerala",
+      "course": "All Engineering Courses including dual degree and integrated courses"
+    },
+    {
+      "s_no": 88,
+      "name": "BITS Pilani",
+      "location": "Pilani Campus, Vidya Vihar, Rajasthan 333031",
+      "state": "Rajasthan",
+      "course": "All Science and Engineering Courses"
+    },
+    {
+      "s_no": 89,
+      "name": "BITS Pilani KK Birla Goa Campus",
+      "location": "NH 17B Bypass Road, Zuarinagar, Goa 403726",
+      "state": "Goa",
+      "course": "All Science and Engineering Courses"
+    },
+    {
+      "s_no": 90,
+      "name": "Birla Institute of Technology, Mesra",
+      "location": "Mesra, Ranchi, Jharkhand 835215",
+      "state": "Jharkhand",
+      "course": "All Science and Engineering Courses including integrated courses"
+    },
+    {
+      "s_no": 91,
+      "name": "BITS Pilani, Hyderabad Campus",
+      "location": "Jawahar Nagar, Shameerpet Mandal, Telangana 500078",
+      "state": "Telangana",
+      "course": "All Science and Engineering Courses"
+    },
+    {
+      "s_no": 92,
+      "name": "Netaji Subhas Institute of Technology (NSIT)",
+      "location": "Azad Hind Fauz Marg, Sector 3, Dwarka, Delhi 110078",
+      "state": "Delhi",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 93,
+      "name": "Indian Institute of Management Ahmedabad",
+      "location": "Vastrapur, Ahmedabad-380015",
+      "state": "Gujarat",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 94,
+      "name": "Indian Institute of Management Bangalore",
+      "location": "Bennerghat Road, Bangalore-560076",
+      "state": "Karnataka",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 95,
+      "name": "Indian Institute of Management Kolkata",
+      "location": "Alipara PO, Kolkata-700027",
+      "state": "West Bengal",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 96,
+      "name": "Indian Institute of Management Lucknow",
+      "location": "Post Box No.2, Aliganj Extension, Lucknow-226020",
+      "state": "Uttar Pradesh",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 97,
+      "name": "Indian Institute of Management Kozhikode",
+      "location": "IIMK Campus, PO, Kozhikode-673570",
+      "state": "Kerala",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 98,
+      "name": "Indian Institute of Management Indore",
+      "location": "Prabandh Shikhar, Rau-Pithampur Road, Indore-453556",
+      "state": "Madhya Pradesh",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 99,
+      "name": "Rajiv Gandhi Indian Institute of Management Shillong",
+      "location": "Mayurbhanj Complex, Nongthaymai, Shillong-793014",
+      "state": "Meghalaya",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 100,
+      "name": "Indian Institute of Management Raipur",
+      "location": "GEC Campus, Sejbahar, Raipur-492015",
+      "state": "Chhattisgarh",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 101,
+      "name": "Indian Institute of Management Rohtak",
+      "location": "Humanities Block, MDU Campus, Rohtak-124001",
+      "state": "Haryana",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 102,
+      "name": "Indian Institute of Management Ranchi",
+      "location": "Suchna Bhavan 5th Floor, Audrey House Campus, Ranchi-834008",
+      "state": "Jharkhand",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 103,
+      "name": "Indian Institute of Management Udaipur",
+      "location": "Mohanlal Sukhadia University Campus, Udaipur-313001",
+      "state": "Rajasthan",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 104,
+      "name": "Indian Institute of Management Tiruchirappalli",
+      "location": "NIT Campus, Thanjavore Main Road, Tamil Nadu 620015",
+      "state": "Tamil Nadu",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 105,
+      "name": "Indian Institute of Management Kashipur",
+      "location": "Bazpur Road, Kashipur, Uttarakhand 244713",
+      "state": "Uttarakhand",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 106,
+      "name": "Indian Institute of Management, Visakhapatnam",
+      "location": "Andhra Bank School of Business Building, Andhra University Campus, Visakhapatnam-530003",
+      "state": "Andhra Pradesh",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 107,
+      "name": "Indian Institute of Management, Bodh Gaya",
+      "location": "Directorate of Distance Education Building, Magadh University Campus, Bodh Gaya-824234",
+      "state": "Bihar",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 108,
+      "name": "Indian Institute of Management, Sirmaur, Himachal Pradesh",
+      "location": "IIM Sirmaur, Rampur Ghat Road, Paonta Sahib, Himachal Pradesh 173025",
+      "state": "Himachal Pradesh",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 109,
+      "name": "Indian Institute of Management, Maharashtra",
+      "location": "VNIT Campus, South Ambazari Road, Nagpur, Maharashtra 440010",
+      "state": "Maharashtra",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 110,
+      "name": "Indian Institute of Management, Odisha",
+      "location": "C/o Silicon Institute of Technology, Sambalpur, Odisha 768200",
+      "state": "Odisha",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 111,
+      "name": "Indian Institute of Management, Punjab, Amritsar",
+      "location": "Punjab Institute of Technology Building, Amritsar, Punjab 143105",
+      "state": "Punjab",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 112,
+      "name": "Institute of Rural Management (IRMA)",
+      "location": "60, Anand, Gujarat 388001",
+      "state": "Gujarat",
+      "course": "All full time Courses"
+    },
+    {
+      "s_no": 113,
+      "name": "Indian Institute of Forest Management Bhopal",
+      "location": "PO Box-357, Nehru Nagar, Bhopal-462003",
+      "state": "Madhya Pradesh",
+      "course": "All full time Courses"
+    },
+    {
+      "s_no": 114,
+      "name": "Management Development Institute (MDI) Gurgaon",
+      "location": "Mehrauli Road Sukhrali, Gurgaon-122007",
+      "state": "Haryana",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 115,
+      "name": "Xavier Institute of Management",
+      "location": "Xavier Square, Jayadev Vihar, Bhubaneswar, Odisha 751013",
+      "state": "Odisha",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 116,
+      "name": "Symbiosis Institute of Business Management Pune",
+      "location": "Khadki, Range Hill Road, Pune, Maharashtra 411020",
+      "state": "Maharashtra",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 117,
+      "name": "Jamnalal Bajaj Institute of Management Studies (JBIMS)",
+      "location": "Churchgate, Mumbai",
+      "state": "Maharashtra",
+      "course": "All full time Management Courses including MSC (Finance)"
+    },
+    {
+      "s_no": 118,
+      "name": "XLRI - Xavier School of Management",
+      "location": "Circuit House Area, Sonari, Jamshedpur, Jharkhand-831001",
+      "state": "Jharkhand",
+      "course": "All full time Management Courses"
+    },
+    {
+      "s_no": 119,
+      "name": "National Law School of India University, Bangalore",
+      "location": "PO Bag-7201, Nagarbhavi, Bangalore-560072",
+      "state": "Karnataka",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 120,
+      "name": "National Law Institute University Bhopal",
+      "location": "Kerwa Dam Road, Bhopal-462044",
+      "state": "Madhya Pradesh",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 121,
+      "name": "NALSAR University of Law Hyderabad",
+      "location": "Post Box No.1, Justice City, Shameerpet, Hyderabad-500101",
+      "state": "Telangana",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 122,
+      "name": "National Law University, Jodhpur",
+      "location": "NH-65, Nagour Road, Mandore, Jodhpur-342304",
+      "state": "Rajasthan",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 123,
+      "name": "The WB National University of Juridical Sciences Kolkata",
+      "location": "Dr. Ambedkar Bhavan, 12, LB Block, Salt Lake City, Kolkata",
+      "state": "West Bengal",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 124,
+      "name": "Hidayatullah National Law University Raipur",
+      "location": "Uparwara Post, Abhanpur, New Raipur-493661",
+      "state": "Chhattisgarh",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 125,
+      "name": "Gujarat National Law University Gandhinagar",
+      "location": "Attalika Avenue, Knowledge Corridor, Koba, Gandhinagar-382007",
+      "state": "Gujarat",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 126,
+      "name": "Ram Manohar Lohia National Law University, Lucknow",
+      "location": "Sector-D1, LDA Colony, Kanpur Road Scheme, Lucknow-226012",
+      "state": "Uttar Pradesh",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 127,
+      "name": "Rajiv Gandhi National University of Law, Punjab",
+      "location": "Sidhuwal-Bhadson Road, Patiala",
+      "state": "Punjab",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 128,
+      "name": "Chanakya National Law University, Patna",
+      "location": "Nyaya Nagar, Mithapur, Patna-800001",
+      "state": "Bihar",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 129,
+      "name": "The National University of Advanced Legal Studies (NUALS)",
+      "location": "NUALS Campus, H.M.T. Colony P.O., Ernakulam-683503",
+      "state": "Kerala",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 130,
+      "name": "National Law University, Delhi",
+      "location": "Sector 14, Dwarka, New Delhi-110078",
+      "state": "Delhi",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 131,
+      "name": "National Law University Odisha",
+      "location": "Kathajodi Campus, SEC-13, CDA, Cuttack-753015",
+      "state": "Odisha",
+      "course": "All Law Courses including integrated courses"
+    },
+    {
+      "s_no": 132,
+      "name": "All India Institute of Medical Sciences Delhi",
+      "location": "Ansari Nagar, New Delhi 11029",
+      "state": "Delhi",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 133,
+      "name": "Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER)",
+      "location": "Dhanvantri Nagar, Gorimedu, Puducherry-605006",
+      "state": "Puducherry",
+      "course": "All courses"
+    },
+    {
+      "s_no": 134,
+      "name": "Government Vellore Medical College",
+      "location": "Arni Road, Adukkamparai, Vellore, Tamil Nadu 632011",
+      "state": "Tamil Nadu",
+      "course": "All courses"
+    },
+    {
+      "s_no": 135,
+      "name": "Institute of Medical Sciences, Banaras Hindu University Varanasi",
+      "location": "Banaras Hindu University Varanasi-221005",
+      "state": "Uttar Pradesh",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 136,
+      "name": "Christian Medical College, Vellore",
+      "location": "NH234, Thottapalayam, Vellore, Tamil Nadu 632004",
+      "state": "Tamil Nadu",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 137,
+      "name": "Indian Agriculture Research Institute, Delhi",
+      "location": "Pusa, New Delhi-110012",
+      "state": "Delhi",
+      "course": "All courses"
+    },
+    {
+      "s_no": 138,
+      "name": "Central Institute for Research on Cotton Technology (CIRCOT) ICAR Mumbai",
+      "location": "Adenwala Road, Matunga, Mumbai-400019",
+      "state": "Maharashtra",
+      "course": "All courses"
+    },
+    {
+      "s_no": 139,
+      "name": "Indian Veterinary Research Institute Izatnagar",
+      "location": "Izatnagar, Bareilly-243122",
+      "state": "Uttar Pradesh",
+      "course": "All courses"
+    },
+    {
+      "s_no": 140,
+      "name": "Indian Institute of Plantation Management, Bangalore",
+      "location": "Jnana Bharti Campus, Bengaluru-560056",
+      "state": "Karnataka",
+      "course": "All courses"
+    },
+    {
+      "s_no": 141,
+      "name": "Indian Statistical Institute Delhi",
+      "location": "7, SJS Sansanwal Marg, New Delhi-110016",
+      "state": "Delhi",
+      "course": "All courses"
+    },
+    {
+      "s_no": 142,
+      "name": "Indian Statistical Institute Bangalore",
+      "location": "8th Mile, Rvce Post, Mysore Road, Bengaluru-560059",
+      "state": "Karnataka",
+      "course": "All courses"
+    },
+    {
+      "s_no": 143,
+      "name": "Indian Statistical Institute Kolkata",
+      "location": "203, Barrackpore Trunk Road, Kolkata-700108",
+      "state": "West Bengal",
+      "course": "All courses"
+    },
+    {
+      "s_no": 144,
+      "name": "Indian Institute of Science Bangalore",
+      "location": "CV Raman Avenue, Yeshwantpura, Bengaluru-560012",
+      "state": "Karnataka",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 145,
+      "name": "National Institute of Fashion Technology Delhi",
+      "location": "Hauz Khas, Near Gulmohar Park, New Delhi-110016",
+      "state": "Delhi",
+      "course": "All courses"
+    },
+    {
+      "s_no": 146,
+      "name": "National Institute of Fashion Technology, Bangalore",
+      "location": "C.A. Site, #21, 27th Main Road, HSR Layout, Bengaluru, Karnataka 560102",
+      "state": "Karnataka",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 147,
+      "name": "National Institute of Fashion Technology, Bhopal",
+      "location": "Bhopal, Madhya Pradesh 462001",
+      "state": "Madhya Pradesh",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 148,
+      "name": "National Institute of Fashion Technology, Bhubaneswar",
+      "location": "Plot-3B, Block-LA, Sector III, Salt Lake City, West Bengal 700098",
+      "state": "Odisha",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 149,
+      "name": "National Institute of Fashion Technology, Chennai",
+      "location": "Dr Vikram Sarabai Instronic Estate, Taramani, Chennai, Tamil Nadu 600096",
+      "state": "Tamil Nadu",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 150,
+      "name": "National Institute of Fashion Technology, Hyderabad",
+      "location": "Opposite Hi-tech City, Cyberabad Post, Madhapur, Hyderabad, Telangana 500081",
+      "state": "Telangana",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 151,
+      "name": "National Institute of Fashion Technology, Jodhpur",
+      "location": "Karwar, Jodhpur, Rajasthan 342037",
+      "state": "Rajasthan",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 152,
+      "name": "National Institute of Fashion Technology, Kangra",
+      "location": "NIFT Campus, Talpura, Kangra, Himachal Pradesh 176001",
+      "state": "Himachal Pradesh",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 153,
+      "name": "National Institute of Fashion Technology, Kannur",
+      "location": "Dharmasala, Parassinikadavu, Kerala 670563",
+      "state": "Kerala",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 154,
+      "name": "National Institute of Fashion Technology, Kolkata",
+      "location": "Plot-3B, Block-LA, Sector III, Salt Lake City, Kolkata, West Bengal 700098",
+      "state": "West Bengal",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 155,
+      "name": "National Institute of Fashion Technology, Mumbai",
+      "location": "Plot no.15, Sector 4, Kharghar, Navi Mumbai, Maharashtra 410210",
+      "state": "Maharashtra",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 156,
+      "name": "National Institute of Fashion Technology, Patna",
+      "location": "Near Jakkanpur Police Station, Mithapur Farm Area, Patna, Bihar 800001",
+      "state": "Bihar",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 157,
+      "name": "National Institute of Fashion Technology, Rae Bareli",
+      "location": "ITI Colony Area, Doorbhash Nagar, Raebareli, Uttar Pradesh 229010",
+      "state": "Uttar Pradesh",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 158,
+      "name": "National Institute of Fashion Technology, Shillong",
+      "location": "'C' Block, Pasteur Hills, Lawmali, Shillong, Meghalaya 793001",
+      "state": "Meghalaya",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 159,
+      "name": "National Institute of Fashion Technology, Srinagar",
+      "location": "Badgam, Jammu and Kashmir 190007",
+      "state": "Jammu and Kashmir",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 160,
+      "name": "National Institute of Fashion Technology, Gandhinagar",
+      "location": "GH-O Road, Behind Info City, Near DAIICT, Gandhinagar-382007",
+      "state": "Gujarat",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 161,
+      "name": "National Institute of Design Ahmedabad",
+      "location": "Opp Tagore Hall, Paldi, Ahmedabad, Gujarat 380007",
+      "state": "Gujarat",
+      "course": "All courses"
+    },
+    {
+      "s_no": 162,
+      "name": "National Institute of Design Gandhinagar",
+      "location": "GH-0, Extension Road Near Infocity, Gandhinagar, Gujarat 382007",
+      "state": "Gujarat",
+      "course": "All courses"
+    },
+    {
+      "s_no": 163,
+      "name": "National Institute of Design Bangalore",
+      "location": "12, HMT Link Road, Off Tumkur Road, Yeshwanthpur, Bengaluru, Karnataka 560022",
+      "state": "Karnataka",
+      "course": "All courses"
+    },
+    {
+      "s_no": 164,
+      "name": "Tata Institute of Social Sciences (TISS), Mumbai",
+      "location": "V.N. Purav Marg, Deonar, Mumbai-400088",
+      "state": "Maharashtra",
+      "course": "All courses"
+    },
+    {
+      "s_no": 165,
+      "name": "National Institute of Homeopathy, Kolkata",
+      "location": "Block-GE, Sector-III, Salt Lake, Kolkata-700106",
+      "state": "West Bengal",
+      "course": "All courses"
+    },
+    {
+      "s_no": 166,
+      "name": "Film and Television Institute of India, Pune",
+      "location": "Law College Road, Pune-411004",
+      "state": "Maharashtra",
+      "course": "All courses"
+    },
+    {
+      "s_no": 167,
+      "name": "Indian Institute of Mass Communication, New Delhi",
+      "location": "JNU New Campus, Aruna Asif Ali Road, New Delhi-110067",
+      "state": "Delhi",
+      "course": "All courses"
+    },
+    {
+      "s_no": 168,
+      "name": "National Dairy Research Institute, Karnal",
+      "location": "Karnal-132001",
+      "state": "Haryana",
+      "course": "All courses"
+    },
+    {
+      "s_no": 169,
+      "name": "Central Institute of Agricultural Engineering, Bhopal",
+      "location": "Nabi Bagh, Berasia Road, Bhopal-462038",
+      "state": "Madhya Pradesh",
+      "course": "All courses"
+    },
+    {
+      "s_no": 170,
+      "name": "National Museum Institute of History of Art, Conservation and Museology (NMIHACM)",
+      "location": "Janpath, New Delhi-110001",
+      "state": "Delhi",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 171,
+      "name": "All India Institute of Medical Sciences Bhopal",
+      "location": "Saket Nagar, Bhopal",
+      "state": "Madhya Pradesh",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 172,
+      "name": "All India Institute of Medical Sciences Bhubaneswar",
+      "location": "Sijua, Patrapada, Bhubaneswar-751019",
+      "state": "Odisha",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 173,
+      "name": "All India Institute of Medical Sciences Jodhpur",
+      "location": "Jodhpur",
+      "state": "Rajasthan",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 174,
+      "name": "All India Institute of Medical Sciences Patna",
+      "location": "Phulwari Sharif, Patna-801505",
+      "state": "Bihar",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 175,
+      "name": "All India Institute of Medical Sciences Raipur",
+      "location": "Tatibandh, G E Road, Raipur-492099",
+      "state": "Chhattisgarh",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 176,
+      "name": "All India Institute of Medical Sciences Rishikesh",
+      "location": "Virbhadra Road, Rishikesh-249201",
+      "state": "Uttarakhand",
+      "course": "All Courses"
+    },
+    {
+      "s_no": 177,
+      "name": "Kasturba Medical College (KMC) Mangalore & Manipal",
+      "location": "Mangalore-575001 & Manipal-576104",
+      "state": "Karnataka",
+      "course": "MBBS/MS/MD/MSc/PG Medical Diploma and all other full time courses"
+    },
+    {
+      "s_no": 178,
+      "name": "Sir JJ School of Art",
+      "location": "78, Dr. D.N. Road, Fort, Mumbai-400001",
+      "state": "Maharashtra",
+      "course": "All undergraduate, Post Graduate and Diploma Courses"
+    },
+    {
+      "s_no": 179,
+      "name": "National Institute of Ayurveda, Jaipur",
+      "location": "Madhav Vilas, Palace, Jorawar Singh Gate, Amer",
+      "state": "Rajasthan",
+      "course": "All courses"
+    },
+    {
+      "s_no": 180,
+      "name": "Viswa-Bharati",
+      "location": "PO: Santiniketan-731235",
+      "state": "West Bengal",
+      "course": "B.Music/M.Music/B.F.A./M.F.A. in Painting, Glass, Textile, Sculpture, Design and related fields"
+    },
+    {
+      "s_no": 181,
+      "name": "National School of Drama Delhi",
+      "location": "Bahawalpur House, 1, Bhagwandas Road, New Delhi-110001",
+      "state": "Delhi",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 182,
+      "name": "Tata Institute of Social Sciences (TISS), Guwahati Campus",
+      "location": "14-A, Bhuban Road, Uzanbazar, Guwahati 781001",
+      "state": "Assam",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 183,
+      "name": "Tata Institute of Social Sciences (TISS), Hyderabad Campus",
+      "location": "SR Sankaran Block, Rajendranagar, Hyderabad 500030",
+      "state": "Telangana",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 184,
+      "name": "Tata Institute of Social Sciences (TISS), Tuljapur Campus",
+      "location": "Tuljapur-413601, District Osmanabad",
+      "state": "Maharashtra",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 185,
+      "name": "Indian School of Business (ISB), Mohali",
+      "location": "Knowledge City, Sector 81, SAS Nagar, Mohali, Punjab 140306",
+      "state": "Punjab",
+      "course": "Post Graduate Programme in Management"
+    },
+    {
+      "s_no": 186,
+      "name": "Indian School of Business (ISB), Hyderabad",
+      "location": "Gachibowli, Hyderabad, Telangana-500032",
+      "state": "Telangana",
+      "course": "Post Graduate Programme in Management"
+    },
+    {
+      "s_no": 187,
+      "name": "National Institute of Siddha, Chennai",
+      "location": "Tambaram, Chennai-600047",
+      "state": "Tamil Nadu",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 188,
+      "name": "Netaji Subhas National Institute of Sports (NSNIS)",
+      "location": "Old Moti Bagh, Patiala-147001",
+      "state": "Punjab",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 189,
+      "name": "National Institute of Unani Medicine, Bangalore",
+      "location": "Kottigepalya, Magadi Main Road, Bengaluru-560091",
+      "state": "Karnataka",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 190,
+      "name": "Moraji Desai National Institute of Yoga, New Delhi",
+      "location": "68, Ashoka Road, Near Gole Dak Khana, New Delhi-110001",
+      "state": "Delhi",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 191,
+      "name": "National Institute of Mental Health and Neurosciences",
+      "location": "Hosur Road, Lakkasandra, Bengaluru, Karnataka 560029",
+      "state": "Karnataka",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 192,
+      "name": "Central Food Technological Research Institute, Mysuru, Karnataka",
+      "location": "Mysuru, Karnataka",
+      "state": "Karnataka",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 193,
+      "name": "National Institute of Food Technology Entrepreneurship and Management",
+      "location": "Sonepat, Haryana",
+      "state": "Haryana",
+      "course": "All full time undergraduate and Post Graduate degree courses"
+    },
+    {
+      "s_no": 194,
+      "name": "Sri Venketeswara Institute of Medical Sciences Tirupati",
+      "location": "Town Club, Alipiri Road, Chittoor Distt., Tirupati-517507",
+      "state": "Andhra Pradesh",
+      "course": "MBBS/MDS/MCH and all other full time courses"
+    },
+    {
+      "s_no": 195,
+      "name": "Vardhman Mahavir Medical College & Safdarjung Hospital Delhi",
+      "location": "New Delhi-110029",
+      "state": "Delhi",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH and all other full time courses"
+    },
+    {
+      "s_no": 196,
+      "name": "King George Medical College Lucknow",
+      "location": "Chowk, Lucknow-226003",
+      "state": "Uttar Pradesh",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH and all other full time courses"
+    },
+    {
+      "s_no": 197,
+      "name": "Maulana Azad Medical College New Delhi",
+      "location": "Bahadur Shah Zafar Rd, New Delhi-110002",
+      "state": "Delhi",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH and all other full time courses"
+    },
+    {
+      "s_no": 198,
+      "name": "Lady Hardinge Medical College, New Delhi",
+      "location": "Shaheed Bhagat Singh Marg, Connaught Place, New Delhi-110001",
+      "state": "Delhi",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH and all other full time courses"
+    },
+    {
+      "s_no": 199,
+      "name": "Madras Medical College and Government General Hospital, Chennai",
+      "location": "E.V.R Periyar Salai, Park Town, Chennai-600003",
+      "state": "Tamil Nadu",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH and all other full time courses"
+    },
+    {
+      "s_no": 200,
+      "name": "The English and Foreign Languages University (Formerly CIEFL)",
+      "location": "Hyderabad 500007",
+      "state": "Telangana",
+      "course": "All full time courses"
+    },
+    {
+      "s_no": 201,
+      "name": "Faculty of Management Studies, University of Delhi",
+      "location": "University of Delhi, Delhi-110007",
+      "state": "Delhi",
+      "course": "MBA"
+    },
+    {
+      "s_no": 202,
+      "name": "National Institute of Mentally Handicapped Secundrabad",
+      "location": "Manovikas Nagar, Secundrabad-500009",
+      "state": "Andhra Pradesh",
+      "course": "BRT/DSE/Bed(Spl.Ed.), PGD in early Intervention, Diploma programmes, M.Phil (Rehab psy), and other full time courses"
+    },
+    {
+      "s_no": 203,
+      "name": "Pt. Deendayal Upadhyaya Institute for the Physically Handicapped, New Delhi",
+      "location": "4, Vishnu Digamber Marg, New Delhi-110002",
+      "state": "Delhi",
+      "course": "BOT/BPT and all other full time courses"
+    },
+    {
+      "s_no": 204,
+      "name": "Ali Yavar Jung National Institute for the Hearing Handicapped, Mumbai",
+      "location": "K.C. Marg, Bandra (W) Reclamation, Mumbai-400050",
+      "state": "Maharashtra",
+      "course": "MASLP, S.Sc(ASLP), Med.(Hearing Impaired), and other full time courses"
+    },
+    {
+      "s_no": 205,
+      "name": "Swami Vivekanand National Institute of Rehabilitation Training and Research, SVNIRTAR, Cuttack",
+      "location": "Olatpur, P.O. Bairoi, Cuttack-754010",
+      "state": "Odisha",
+      "course": "BOT/BPT/BPOE/DMB/MPT/MOT and all other full time courses"
+    },
+    {
+      "s_no": 206,
+      "name": "National Institute For The Visually Handicapped, Dehradun",
+      "location": "116 Rajpur Road, Dehradun-248001",
+      "state": "Uttarakhand",
+      "course": "BA/Bed,SLT,PLT,CCPVIP and all other full time courses"
+    },
+    {
+      "s_no": 207,
+      "name": "National Institute for the Orthopedically Handicapped, Kolkata",
+      "location": "B T Road, Bonhooghly, Kolkata-700090",
+      "state": "West Bengal",
+      "course": "BOT/BPT/BPOE/PGDDRM and all other full time courses"
+    },
+    {
+      "s_no": 208,
+      "name": "National Institute of Technology Andhra Pradesh",
+      "location": "Chennai-Srikakulam Highway, Tadepalligudam, Andhra Pradesh 534101",
+      "state": "Andhra Pradesh",
+      "course": "All Engineering Courses"
+    },
+    {
+      "s_no": 209,
+      "name": "Indian Institute of Science Education & Research (IISER), Thiruvananthapuram",
+      "location": "Maruthamala PO, Vithura, Thiruvananthapuram, Kerala 695551",
+      "state": "Kerala",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 210,
+      "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",
+      "location": "Near Medical College, Jai Nagar W Road, Thiruvananthapuram, Kerala 695011",
+      "state": "Kerala",
+      "course": "All Full Time Courses except Advance Certificate Programmes in Physiotherapy"
+    },
+    {
+      "s_no": 211,
+      "name": "Indian Institute of Science Education & Research (IISER), Pune",
+      "location": "Dr. Homi Bhabha Road, Ward No.8, NCL Colony, Pashan, Pune, Maharashtra 411008",
+      "state": "Maharashtra",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 212,
+      "name": "Indian Institute of Science Education & Research (IISER), Mohali",
+      "location": "Knowledge city, Sector 81, Manauli PO, Punjab 140306",
+      "state": "Punjab",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 213,
+      "name": "National Institute of Pharmaceutical Education and Research, Mohali",
+      "location": "Sector 67, Sahibzada Ajit Singh Nagar, Punjab 160062",
+      "state": "Punjab",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 214,
+      "name": "Academy of Scientific & Innovative Research, Tamil Nadu",
+      "location": "Training and Development Complex, CSIR Campus, CSIR Road",
+      "state": "Tamil Nadu",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 215,
+      "name": "Rajiv Gandhi National Institute of Youth Development, Sriperumbudur",
+      "location": "Singaperumal Koil-Sriperumbudur Rd, Tamil Nadu 602105",
+      "state": "Tamil Nadu",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 216,
+      "name": "Indian Institute of Science Education & Research (IISER), Kolkata",
+      "location": "35/1, 2nd Avenue, DC Block, Sector-1, Salt Lake City, Bidhannagar, Kolkata, West Bengal 700064",
+      "state": "West Bengal",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 217,
+      "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+      "location": "P.O. Botanic Garden, Howrah, West Bengal 711103",
+      "state": "West Bengal",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 218,
+      "name": "Footwear Design & Development Institute, Noida",
+      "location": "A-10/A, Sector 24, Gautam Budh Nagar, Noida, Uttar Pradesh 201301",
+      "state": "Uttar Pradesh",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 219,
+      "name": "Indian Institute of Science Education and Research (IISER), Tirupati",
+      "location": "Karakambadi Road, Rami Reddy Nagar, Mangalam (P.O.), Tirupati, Andhra Pradesh 517507",
+      "state": "Andhra Pradesh",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 220,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Pusa, New Delhi",
+      "location": "Pusa, Library Avenue, New Delhi, Delhi 110012",
+      "state": "Delhi",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 221,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Ahmedabad",
+      "location": "IHM Ahmedabad, Gandhinagar, Gujarat 382421",
+      "state": "Gujarat",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 222,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Goa",
+      "location": "Alto Porvorim, Bardez, Goa 403521",
+      "state": "Goa",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 223,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Bangalore",
+      "location": "Pusa, Library Avenue, New Delhi, Delhi 110012",
+      "state": "Karnataka",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 224,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Bhopal",
+      "location": "1100 Quarters, Near Academy of Administration, Bhopal, Madhya Pradesh 462016",
+      "state": "Madhya Pradesh",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 225,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Hyderabad",
+      "location": "F-Row, D.D.Colony, Vidya Nagar, Hyderabad, Telangana 500007",
+      "state": "Telangana",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 226,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Jaipur",
+      "location": "Sikar Road, Bani Park, Jaipur, Rajasthan 302016",
+      "state": "Rajasthan",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 227,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Lucknow",
+      "location": "Sector G, Sector L, Aliganj, Lucknow, Uttar Pradesh 226024",
+      "state": "Uttar Pradesh",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 228,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Mumbai",
+      "location": "SVS Rd, Aparna Vaibhav Society, Dadar West, Mumbai, Maharashtra 400028",
+      "state": "Maharashtra",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 229,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Shillong",
+      "location": "Mawdiangdiang, East Khasi Hills District, Shillong, Meghalaya 793018",
+      "state": "Meghalaya",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 230,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Vaishali, Bihar",
+      "location": "Ramashish Chowk, Hajipur-844101, Vaishali, Bihar",
+      "state": "Bihar",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 231,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Shimla",
+      "location": "IHM, Kufri-Shimla",
+      "state": "Himachal Pradesh",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 232,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Srinagar",
+      "location": "Rajbagh, Srinagar, Jammu and Kashmir 190008",
+      "state": "Jammu and Kashmir",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 233,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Thiruvananthapuram",
+      "location": "G.V.Raja Road, Kovalam, Thiruvananthapuram, Kerala 695527",
+      "state": "Kerala",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 234,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Gwalior",
+      "location": "Airport Road, Maharajpura, Gwalior(M.P.)-474005",
+      "state": "Madhya Pradesh",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 235,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Gurdaspur",
+      "location": "Punjab",
+      "state": "Punjab",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 236,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Chennai",
+      "location": "4th Cross Street, C.I.T Campus, TTTI-Taramani P.O., Chennai-600113",
+      "state": "Tamil Nadu",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 237,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Bhubaneswar",
+      "location": "Near Indian Overseas Bank, V.S.S. Nagar, Bhubaneswar, Odisha 751007",
+      "state": "Odisha",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 238,
+      "name": "Institute of Hotel Management, Catering & Nutrition, Guwahati",
+      "location": "Mahapurush Madhabdev Path, Guwahati, Assam 781036",
+      "state": "Assam",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 239,
+      "name": "Indian Institute of Tourism & Travel Management, Gwalior",
+      "location": "University Rd, Kailash Nagar, Govindpuri, Gwalior, Madhya Pradesh 474011",
+      "state": "Madhya Pradesh",
+      "course": "Hotel Management Courses"
+    },
+    {
+      "s_no": 240,
+      "name": "B.J. Medical College, Ahmedabad",
+      "location": "New Civil Hospital, Haripura, Asarwa, Ahmedabad, Gujarat 380016",
+      "state": "Gujarat",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH"
+    },
+    {
+      "s_no": 241,
+      "name": "Government Medical College, Calicut",
+      "location": "Medical College Road, Kozhikode, Kerala 673008",
+      "state": "Kerala",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH"
+    },
+    {
+      "s_no": 242,
+      "name": "King Edward Memorial Hospital, Mumbai",
+      "location": "Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012",
+      "state": "Maharashtra",
+      "course": "MBBS/BDS/MDS/MD/MS/DM/MCH"
+    },
+    {
+      "s_no": 243,
+      "name": "National Institute for Empowerment of Persons with Multiple Disabilities, Chennai",
+      "location": "East Coast Road, Kanchipuram, Tamil Nadu 600119",
+      "state": "Tamil Nadu",
+      "course": "B.Ed & Diploma"
+    },
+    {
+      "s_no": 244,
+      "name": "Indian Institute of Foreign Trade, Delhi",
+      "location": "IIFT Bhawan, B-21, NRPC Colony, Qutab Institutional Area, New Delhi, Delhi 110016",
+      "state": "Delhi",
+      "course": "MBA"
+    },
+    {
+      "s_no": 245,
+      "name": "Indian Institute of Foreign Trade, Kolkata",
+      "location": "1583, Chowbagha Road, Ward No 108, Kolkata, West Bengal 700107",
+      "state": "West Bengal",
+      "course": "MBA"
+    },
+    {
+      "s_no": 246,
+      "name": "Indian Institute of Packaging, Mumbai",
+      "location": "Plot E-2, Rd Number 8, Chakala Industrial Area (MIDC), Andheri East, Mumbai, Maharashtra 400093",
+      "state": "Maharashtra",
+      "course": "Post Graduate Diploma in Packaging"
+    },
+    {
+      "s_no": 247,
+      "name": "Indian Institute of Science Education and Research, Berhampur",
+      "location": "Engineering School Road, NH-59, Berhampur-760010, District Ganjam",
+      "state": "Odisha",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 248,
+      "name": "Indian Institute of Information Technology, Bhagalpur",
+      "location": "Bhagalpur College of Engineering Campus, Sabour, Bhagalpur-813210",
+      "state": "Bihar",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 249,
+      "name": "Indian Institute of Science Education and Research, Bhopal",
+      "location": "Bhopal Bypass Road, Bhauri, Bhopal-462066",
+      "state": "Madhya Pradesh",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 250,
+      "name": "Indian Institute of Information Technology, Raichur",
+      "location": "Indian Institute of Technology, Kandi, Sangareddy-502285",
+      "state": "Karnataka",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 251,
+      "name": "All India Institute of Medical Sciences, Mangalagiri",
+      "location": "MG Campus, Mangalagiri, Guntur District, Andhra Pradesh 522503",
+      "state": "Andhra Pradesh",
+      "course": "All Full time courses"
+    },
+    {
+      "s_no": 252,
+      "name": "All India Institute of Medical Sciences, Nagpur",
+      "location": "Plot No 2, Sector-20, MIHAN, Maharashtra-441108",
+      "state": "Maharashtra",
+      "course": "All Full time courses"
+    }
+  ]
+}

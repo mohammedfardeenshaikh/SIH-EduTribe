@@ -1,0 +1,106 @@
+{
+  "schemes": [
+    {
+      "id": "pre_matric",
+      "name": "Pre-Matric Scholarship (Class IX & X)",
+      "authority": "State/UT (Centrally Sponsored)",
+      "level": ["Class IX", "Class X"],
+      "income_ceiling_annual": 250000,
+      "age_limit": null,
+      "other_conditions": [
+        "Must belong to Scheduled Tribe as per domicile state",
+        "Studying in Govt or recognized school",
+        "Should not be receiving any other scholarship",
+        "One year of scholarship per class (no repeat-year benefit)"
+      ],
+      "benefit_summary": "₹225–₹525/month scholarship + books grant (₹750–₹1000/year); extra for Divyangjan"
+    },
+    {
+      "id": "post_matric",
+      "name": "Post-Matric Scholarship (Class XI to Post-Graduation)",
+      "authority": "State/UT (Centrally Sponsored)",
+      "level": ["Class XI", "Class XII", "Graduate", "Post-Graduate", "Diploma", "ITI/Vocational"],
+      "income_ceiling_annual": 250000,
+      "age_limit": null,
+      "excludes_if": ["admitted_in_top_class_252_institute"],
+      "other_conditions": [
+        "Passed Matriculation/Higher Secondary or equivalent",
+        "Must belong to Scheduled Tribe as per domicile state",
+        "Should not be receiving any other scholarship",
+        "Students in the 252 Top Class institutes should apply under National Scholarship (Top Class) instead, not here"
+      ],
+      "benefit_summary": "Fee reimbursement (group-wise) + stipend ₹230–₹1200/month depending on course group & hosteler/day-scholar status"
+    },
+    {
+      "id": "national_scholarship_top_class",
+      "name": "National Scholarship (Top Class Education Scheme)",
+      "authority": "Ministry of Tribal Affairs (Central Sector)",
+      "level": ["Graduate", "Post-Graduate"],
+      "income_ceiling_annual": 600000,
+      "age_limit": null,
+      "requires": ["admission_in_notified_252_institute"],
+      "other_conditions": [
+        "Must belong to Scheduled Tribe",
+        "Admission must be in one of the 252 MoTA-notified premier institutes (IITs, IIMs, NITs, AIIMS, NLUs, etc.)",
+        "Not admitted via private Management quota",
+        "Students here are NOT eligible for Post-Matric Scholarship (avoid duplication)"
+      ],
+      "benefit_summary": "Full tuition/admission fee (₹2.5L/yr ceiling for private institutes) + ₹3000/month stipend + ₹5000/yr books + ₹45000 one-time computer grant"
+    },
+    {
+      "id": "nfst_fellowship",
+      "name": "National Fellowship for ST Students (NFST) — MPhil/PhD",
+      "authority": "Ministry of Tribal Affairs (Central Sector)",
+      "level": ["MPhil", "PhD", "MPhil+PhD"],
+      "income_ceiling_annual": null,
+      "age_limit_years": 36,
+      "min_marks_percent_pg": 55,
+      "other_conditions": [
+        "Must belong to Scheduled Tribe",
+        "Completed Post-Graduation/Master's degree with min 55% marks",
+        "Admission in UGC-recognized University/Institute of National Importance",
+        "750 fresh fellowships/year (priority slots: Divyangjan, PVTG, Female, then ST-Others)",
+        "No income criteria for this scheme"
+      ],
+      "benefit_summary": "₹31,000–₹35,000/month stipend (Humanities) or similar (Science/Engg) + HRA + annual contingency ₹10,000–₹25,500"
+    },
+    {
+      "id": "nos_overseas",
+      "name": "National Overseas Scholarship (NOS)",
+      "authority": "Ministry of Tribal Affairs (Central Sector)",
+      "level": ["Master's (abroad)", "PhD (abroad)", "Post-Doctoral (abroad)"],
+      "income_ceiling_annual": 600000,
+      "age_limit_by_course": {
+        "Master's": 32,
+        "PhD": 35,
+        "Post-Doctoral": 38
+      },
+      "min_marks_percent": 55,
+      "study_destination": "Abroad only",
+      "fields_of_study": [
+        "Pure/Applied Science, Engineering, Technology, Mathematics (STEM) - 10 slots",
+        "Management, Economics, Finance, Law - 4 slots",
+        "Agriculture/Medicine - 4 slots",
+        "Humanities/Social Science/Fine Arts - 2 slots"
+      ],
+      "other_conditions": [
+        "Bachelor's level courses NOT covered — only PG and above",
+        "20 awards/year total (17 ST + 3 PVTG); 30% reserved for female candidates",
+        "Only one child per family eligible; one-time award per individual",
+        "Marks criteria waived if already admitted to QS World Top 1000 institute"
+      ],
+      "benefit_summary": "Full tuition + USD 15,400/yr maintenance (US) or equivalent + contingency + air passage + visa + insurance"
+    }
+  ],
+  "eligibility_check_logic_notes": {
+    "description": "Suggested matching logic for the recommender engine",
+    "steps": [
+      "1. Filter by education level entered by user against each scheme's 'level' array",
+      "2. If income_ceiling_annual is set, compare user income; null means no income criteria (e.g., NFST)",
+      "3. If age_limit or age_limit_by_course is set, check against user's age as of July 1 of selection year",
+      "4. For NOS, additionally match study destination = Abroad and check min_marks_percent (waived if QS Top 1000 admit)",
+      "5. For Top Class Scholarship, check if user's institute is in the 252-list (institute_list.json) — this determines Top Class vs Post-Matric eligibility, and the two are mutually exclusive",
+      "6. Output status per scheme: 'Eligible' | 'Partially Eligible' (show first failing condition) | 'Not Eligible'"
+    ]
+  }
+}
