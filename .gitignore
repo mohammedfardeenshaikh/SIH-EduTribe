@@ -43,9 +43,11 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Media & Database Uploads
+# Media, Staticfiles & Database Uploads
 media/
 backend/media/
+staticfiles/
+backend/staticfiles/
 *.sqlite3
 backend/*.sqlite3
 

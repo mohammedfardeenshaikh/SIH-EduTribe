@@ -12,7 +12,8 @@ __pycache__/
 venv/
 env/
 
-# Media & Database
+# Media & Database & Staticfiles
 media/
+staticfiles/
 *.sqlite3
 *.log
